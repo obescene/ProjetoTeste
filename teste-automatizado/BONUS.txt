@@ -1,0 +1,3 @@
+Por curiosidade, cliquei no botão "Esqueci a senha" sem digitar o login e senha, e por algum motivo o mesmo libera o acesso (Mostra a mensagem "Okay")
+
+Executei um teste para esse caso também.

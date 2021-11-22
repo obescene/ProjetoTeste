@@ -1,0 +1,1 @@
+Para abrir o sistema, basta dar um duplo clique no arquivo index.html
