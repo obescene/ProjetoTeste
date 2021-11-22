@@ -7,6 +7,7 @@ Para executar este projeto valide os seguintes fatores:
 2 - Verifique se o Cucumber está instalado em seu Eclipse. 
 3 - Garanta que o Google Chrome esteja na versão 93. (O arquivo enviado pela empresa veio nessa versão)
 4 - É necessário trocar os caminhos do código para que sejam direcionados à máquina do usuário, sendo eles os seguintes:
+5 - É necessário importar a pasta raiz na Workspace desejada, para que seja possível rodar o programa. (Pasta ProjetoTeste-main)
 
 * {Cucumber} Given que eu esteja no "F:\ProjetoTeste\teste-automatizado\Login\Sistema/index.html" (Mude o caminho até index.html")
 * {Classe Metodos} System.setProperty("webdriver.chrome.driver", "F:\\ProjetoTeste\\teste-automatizado\\Driver\\chromedriver.exe"); (Mude o caminho até chromedriver.exe")
