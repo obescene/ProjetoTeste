@@ -12,4 +12,4 @@ Para executar este projeto valide os seguintes fatores:
 * {Classe Metodos} System.setProperty("webdriver.chrome.driver", "F:\\ProjetoTeste\\teste-automatizado\\Driver\\chromedriver.exe"); (Mude o caminho até chromedriver.exe")
 * {Classe Metodos} File pathFile = new File("F:\\ProjetoTeste\\teste-automatizado\\Evidências/" + nome + ".png"); (Mude o caminho até Evidências/" + nome + ".png")
 
-(Ao rodar o programa, o Eclipse alerta que o sistema de login/senha disponibilizado para a criação dos testes só aceita a versão 93 do Chrome.)
+(Ao rodar o programa, o Eclipse alerta que o sistema de login/senha disponibilizado para a criação dos testes só aceita a versão 93 do Chrome, por isso, caso o chrome do usuário não esteja nesta versão, o programa não irá funcionar.)
